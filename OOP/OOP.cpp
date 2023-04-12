@@ -17,3 +17,6 @@ public:
 	}
 	void printData();
 };
+
+void Mahasiswa::printData() {
+}
