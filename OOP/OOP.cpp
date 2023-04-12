@@ -25,5 +25,5 @@ void Mahasiswa::printData() {
 	cout << "\nnilai : " << nilai;
 }
 class matakuliah {
-
+private: 
 };
