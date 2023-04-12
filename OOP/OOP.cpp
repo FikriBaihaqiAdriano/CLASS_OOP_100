@@ -38,4 +38,7 @@ public:
 		cout << "\nMasukkan SKS : ";
 		cin >> sks;
 	}
+	void tampil() {
+
+	}
 };
