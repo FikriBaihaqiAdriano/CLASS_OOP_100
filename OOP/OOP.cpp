@@ -33,9 +33,9 @@ public:
 	void inputMK() {
 		cout << "\n\nMasukkan kode matakuliah : ";
 		cin >> kode;
-		cout << "\nMasukkan Nama matakuliah : ";
+		cout << "Masukkan Nama matakuliah : ";
 		cin >> namaMK;
-		cout << "\nMasukkan SKS : ";
+		cout << "Masukkan SKS : ";
 		cin >> sks;
 	}
 	void tampil() {
