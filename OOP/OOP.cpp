@@ -45,3 +45,5 @@ public:
 		cout << "\nsks : " << sks;
 	}
 };
+
+int main()
